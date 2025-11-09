@@ -35,7 +35,7 @@ It replicates Amazon’s layout — including the header, search bar, hero secti
 
 ## 📸 Preview
 _Add screenshot after hosting_
-[Screenshot](<img width="1365" height="716" alt="screenshot" src="https://github.com/user-attachments/assets/ed2bbcab-e3f3-4ce2-bfdb-f49fbd2da970" />
+[Screenshot](<img width="1365" height="716" alt="screenshot" src="https://github.com/user-attachments/assets/ac34e2ad-4206-4ba2-8192-84c3d45bcb31" />
 )
 
 
